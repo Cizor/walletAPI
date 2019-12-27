@@ -47,7 +47,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+    <!--Feature 3 comment added-->
 	<build>
 		<plugins>
 			<plugin>
